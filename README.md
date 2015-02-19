@@ -1,2 +1,2 @@
-# emacs-init.el
+# emacsのinit.elを管理する
 emacs
